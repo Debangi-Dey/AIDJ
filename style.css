@@ -1,0 +1,30 @@
+.heading {
+    font-size: 18px;
+    width: 100%;
+}
+.note {
+    color: brown;
+    font-size: 15px;
+}
+
+body {
+    background: url("background.jpg");
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+.div_vol{
+    float: right;
+}
+.speedImg, .volImg {
+    width: 200px;
+    border-radius: 100px;
+}
+
+canvas {
+   
+    margin-top: 50px;
+    border: 4px dashed white;
+}
